@@ -324,7 +324,83 @@ Each entry shows both **external validation** (ARI, AMI, NMI) and **internal val
 <tr><td rowspan="3" style="vertical-align: middle;">78</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">102, 129, 122, 24, 26, 0, 0, 0, 0, 0</td><td>0.212</td><td>0.301</td><td>0.312</td><td>0.092</td></tr>
 <tr><td>K-MedoidsSC</td><td>6</td><td>403</td><td>0.055</td><td>0.088</td><td>0.101</td><td>-0.097</td></tr>
 <tr><td>CSCLP</td><td></td><td></td><td>0.055</td><td>0.069</td><td>0.083</td><td>0.146</td></tr>
-<tr><td rowspan="3" style="vertical-align: middle;">79</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">51, 56, 41, 42, 10, 0,
+<tr><td rowspan="3" style="vertical-align: middle;">79</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">51, 56, 41, 42, 10, 0, 0, 0, 0, 0</td><td>0.002</td><td>-0.003</td><td>0.026</td><td>0.199</td></tr>
+<tr><td>K-MedoidsSC</td><td>14</td><td>200</td><td>-0.005</td><td>-0.011</td><td>0.018</td><td>-0.119</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.003</td><td>0.019</td><td>0.047</td><td>0.202</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">80</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">8, 48, 32, 30, 5, 0, 0, 0, 0, 0</td><td>0.003</td><td>-0.001</td><td>0.051</td><td>0.101</td></tr>
+<tr><td>K-MedoidsSC</td><td>13</td><td>123</td><td>0.003</td><td>0.003</td><td>0.054</td><td>-0.116</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.009</td><td>-0.026</td><td>0.027</td><td>0.156</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">81</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">60, 100, 150, 0, 0, 0, 0, 0, 0, 0</td><td>0.299</td><td>0.358</td><td>0.362</td><td>0.220</td></tr>
+<tr><td>K-MedoidsSC</td><td>7</td><td>310</td><td>0.027</td><td>0.007</td><td>0.014</td><td>-0.132</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.603</td><td>0.491</td><td>0.495</td><td>0.399</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">82</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">2952, 68, 58, 86, 88, 0, 0, 0, 0, 0</td><td>-0.082</td><td>0.011</td><td>0.018</td><td>-0.334</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>3252</td><td>0.008</td><td>0.005</td><td>0.011</td><td>-0.080</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.006</td><td>0.008</td><td>0.014</td><td>0.244</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">83</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1471, 35, 29, 44, 44, 0, 0, 0, 0, 0</td><td>-0.093</td><td>0.009</td><td>0.022</td><td>-0.317</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1623</td><td>-0.021</td><td>-0.001</td><td>0.012</td><td>-0.026</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.074</td><td>0.005</td><td>0.018</td><td>-0.101</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">84</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1369, 35, 29, 44, 44, 0, 0, 0, 0, 0</td><td>-0.099</td><td>0.011</td><td>0.024</td><td>-0.329</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1521</td><td>-0.028</td><td>0.001</td><td>0.014</td><td>-0.046</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.067</td><td>0.005</td><td>0.018</td><td>0.252</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">85</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1365, 33, 29, 45, 43, 0, 0, 0, 0, 0</td><td>-0.072</td><td>0.005</td><td>0.018</td><td>-0.281</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1515</td><td>0.041</td><td>0.005</td><td>0.018</td><td>-0.238</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.006</td><td>4.83e-4</td><td>0.014</td><td>0.220</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">86</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1083, 9, 21, 49, 21, 0, 0, 0, 0, 0</td><td>-0.074</td><td>0.002</td><td>0.018</td><td>-0.270</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1183</td><td>-0.025</td><td>-0.004</td><td>0.012</td><td>-0.105</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.044</td><td>-0.004</td><td>0.012</td><td>-0.057</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">87</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">984, 8, 19, 51, 18, 0, 0, 0, 0, 0</td><td>-0.048</td><td>-0.003</td><td>0.013</td><td>-0.236</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1080</td><td>-0.007</td><td>-0.001</td><td>0.015</td><td>-0.336</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.077</td><td>0.001</td><td>0.017</td><td>0.341</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">88</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1170, 9, 21, 53, 24, 0, 0, 0, 0, 0</td><td>-0.064</td><td>0.001</td><td>0.015</td><td>-0.345</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1277</td><td>1.30e-4</td><td>-0.003</td><td>0.011</td><td>0.053</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.055</td><td>0.004</td><td>0.018</td><td>0.294</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">89</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1144, 9, 22, 53, 24, 0, 0, 0, 0, 0</td><td>-0.050</td><td>-0.001</td><td>0.013</td><td>-0.282</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1252</td><td>-0.030</td><td>-0.003</td><td>0.011</td><td>-0.135</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.058</td><td>0.004</td><td>0.018</td><td>-0.140</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">90</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1010, 9, 21, 52, 20, 0, 0, 0, 0, 0</td><td>-0.080</td><td>0.004</td><td>0.020</td><td>-0.343</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>1112</td><td>-0.023</td><td>-0.002</td><td>0.013</td><td>-0.005</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.042</td><td>-0.002</td><td>0.014</td><td>-0.047</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">91</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">257, 125, 1, 0, 0, 0, 0, 0, 0, 0</td><td>0.421</td><td>0.290</td><td>0.295</td><td>0.149</td></tr>
+<tr><td>K-MedoidsSC</td><td>6</td><td>383</td><td>-0.013</td><td>-0.002</td><td>0.005</td><td>0.144</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.073</td><td>0.231</td><td>0.236</td><td>0.101</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">92</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">45, 37, 51, 57, 52, 52, 47, 57, 53, 49</td><td>0.392</td><td>0.492</td><td>0.511</td><td>0.249</td></tr>
+<tr><td>K-MedoidsSC</td><td>8</td><td>500</td><td>0.081</td><td>0.153</td><td>0.185</td><td>-0.163</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.473</td><td>0.548</td><td>0.564</td><td>0.341</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">93</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">20, 163, 1457, 2198, 880, 175, 5, 0, 0, 0</td><td>0.015</td><td>0.014</td><td>0.017</td><td>-0.127</td></tr>
+<tr><td>K-MedoidsSC</td><td>12</td><td>4898</td><td>0.001</td><td>0.011</td><td>0.014</td><td>-0.368</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.051</td><td>0.051</td><td>0.054</td><td>2.08e-4</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">94</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">150, 35, 30, 0, 0, 0, 0, 0, 0, 0</td><td>0.542</td><td>0.416</td><td>0.423</td><td>0.423</td></tr>
+<tr><td>K-MedoidsSC</td><td>6</td><td>215</td><td>0.718</td><td>0.536</td><td>0.541</td><td>0.370</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.299</td><td>0.367</td><td>0.375</td><td>-0.270</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">95</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">10, 53, 681, 638, 199, 18, 0, 0, 0, 0</td><td>0.001</td><td>0.035</td><td>0.041</td><td>0.075</td></tr>
+<tr><td>K-MedoidsSC</td><td>12</td><td>1599</td><td>0.018</td><td>0.022</td><td>0.028</td><td>-0.272</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.058</td><td>0.041</td><td>0.047</td><td>0.107</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">96</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1490, 711, 0, 0, 0, 0, 0, 0, 0, 0</td><td>0.218</td><td>0.127</td><td>0.128</td><td>0.529</td></tr>
+<tr><td>K-MedoidsSC</td><td>4</td><td>2201</td><td>-0.016</td><td>0.013</td><td>0.013</td><td>0.332</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.196</td><td>0.111</td><td>0.111</td><td>0.652</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">97</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">4578, 261, 0, 0, 0, 0, 0, 0, 0, 0</td><td>0.222</td><td>0.077</td><td>0.078</td><td>0.396</td></tr>
+<tr><td>K-MedoidsSC</td><td>6</td><td>4839</td><td>-0.043</td><td>0.008</td><td>0.009</td><td>0.770</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.018</td><td>0.001</td><td>0.001</td><td>0.745</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">98</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">30, 27, 28, 44, 28, 47, 32, 29, 0, 0</td><td>0.210</td><td>0.326</td><td>0.358</td><td>0.122</td></tr>
+<tr><td>K-MedoidsSC</td><td>11</td><td>265</td><td>0.027</td><td>0.047</td><td>0.093</td><td>-0.152</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.145</td><td>0.197</td><td>0.236</td><td>0.201</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">99</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1892, 108, 0, 0, 0, 0, 0, 0, 0, 0</td><td>0.001</td><td>-0.001</td><td>6.38e-6</td><td>0.081</td></tr>
+<tr><td>K-MedoidsSC</td><td>6</td><td>2000</td><td>-0.042</td><td>0.007</td><td>0.008</td><td>0.766</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.025</td><td>0.001</td><td>0.002</td><td>0.741</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">100</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">8, 67, 595, 898, 359, 71, 2, 0, 0, 0</td><td>0.008</td><td>0.014</td><td>0.020</td><td>-0.247</td></tr>
+<tr><td>K-MedoidsSC</td><td>12</td><td>2000</td><td>0.004</td><td>0.011</td><td>0.017</td><td>-0.373</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.022</td><td>0.041</td><td>0.047</td><td>-0.018</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">101</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">1029, 777, 194, 0, 0, 0, 0, 0, 0, 0</td><td>0.002</td><td>0.001</td><td>0.002</td><td>0.118</td></tr>
+<tr><td>K-MedoidsSC</td><td>7</td><td>2000</td><td>0.022</td><td>0.024</td><td>0.025</td><td>0.112</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>-0.015</td><td>0.017</td><td>0.018</td><td>0.157</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">102</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">137, 106, 0, 0, 0, 0, 0, 0, 0, 0</td><td>0.014</td><td>0.015</td><td>0.018</td><td>0.225</td></tr>
+<tr><td>K-MedoidsSC</td><td>14</td><td>243</td><td>0.043</td><td>0.039</td><td>0.042</td><td>0.195</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.297</td><td>0.261</td><td>0.263</td><td>0.555</td></tr>
+<tr><td rowspan="3" style="vertical-align: middle;">103</td><td>K-MeansBA</td><td></td><td></td><td rowspan="3" style="vertical-align: middle;">174, 44, 84, 417, 0, 0, 0, 0, 0, 0</td><td>0.024</td><td>-0.001</td><td>0.005</td><td>0.207</td></tr>
+<tr><td>K-MedoidsSC</td><td>8</td><td>719</td><td>0.050</td><td>0.004</td><td>0.010</td><td>-0.554</td></tr>
+<tr><td>CSCLP</td><td></td><td></td><td>0.005</td><td>0.001</td><td>0.006</td><td>-0.653</td></tr>
+</tbody>
+</table>
 
 ---
 
